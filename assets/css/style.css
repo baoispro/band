@@ -175,8 +175,8 @@ html{
     margin-top: 46.5px;
     position: relative;
     padding-top: 50%;
-    /*background: url('../img/slider/slider1.jpg') top center / cover no-repeat;*/
-    background: url('../img/slider/bf270ec00a88cfd69699.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
+    
 }
 
 #slider .text-content{
